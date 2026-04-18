@@ -1,1 +1,2 @@
 This text file is for practice purpose
+This line is typed from the local machine 
